@@ -8,6 +8,11 @@ scikit-learn>=1.4
 matplotlib>=3.8
 seaborn>=0.13
 
+# Deep learning stack for RoBERTa fine-tuning
+torch>=2.0
+transformers>=4.35
+datasets>=2.14
+
 # Notebook execution
 jupyterlab>=4.0
 ipykernel>=6.29
