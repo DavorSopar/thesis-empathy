@@ -1,0 +1,121 @@
+target,direction,feature,coef
+Emotion,positive,sad,1.6729184628269456
+Emotion,positive,terrible,1.670982746605406
+Emotion,positive,horrible,1.375845460523643
+Emotion,positive,awful,1.3743210758076898
+Emotion,positive,scary,1.2612423040446625
+Emotion,positive,imagine,1.1762111917094273
+Emotion,positive,crazy,1.172697667434868
+Emotion,positive,disgusting,1.1526481032613545
+Emotion,positive,heartbreaking,1.066818034305237
+Emotion,positive,evil,1.0659382483955593
+Emotion,positive,me,1.0275919883959452
+Emotion,positive,tragedy,1.0140703519973275
+Emotion,positive,absolutely,1.0013270113870603
+Emotion,positive,it,0.9336325382230999
+Emotion,positive,heart,0.9262484687390267
+Emotion,negative,do you,-1.091801664421787
+Emotion,negative,bye,-0.8738350927277937
+Emotion,negative,you think,-0.8325715714106499
+Emotion,negative,you feel,-0.8013704940438056
+Emotion,negative,goodbye,-0.7673692711050865
+Emotion,negative,maybe,-0.7563741855422307
+Emotion,negative,have you,-0.6307833768531177
+Emotion,negative,not really,-0.5984942099421441
+Emotion,negative,not sure,-0.5853742582568945
+Emotion,negative,gas,-0.5370618334829551
+Emotion,negative,you ever,-0.5195982454594661
+Emotion,negative,did you,-0.512078754646336
+Emotion,negative,hi,-0.5098806279580772
+Emotion,negative,guess,-0.4879215727375396
+Emotion,negative,10,-0.4817366685250785
+EmotionalPolarity,positive,sad,1.4111035537180359
+EmotionalPolarity,positive,terrible,0.94659869941246
+EmotionalPolarity,positive,awful,0.9325271121471292
+EmotionalPolarity,positive,imagine,0.8539827648448366
+EmotionalPolarity,positive,scary,0.8339456752716865
+EmotionalPolarity,positive,horrible,0.6897352356494482
+EmotionalPolarity,positive,sadly,0.6605111611278698
+EmotionalPolarity,positive,unfortunately,0.6508524750994983
+EmotionalPolarity,positive,even,0.650204570318845
+EmotionalPolarity,positive,crazy,0.6442618369650384
+EmotionalPolarity,positive,tragic,0.6392201702250803
+EmotionalPolarity,positive,hate,0.6042306625931523
+EmotionalPolarity,positive,nothing,0.5627493260340701
+EmotionalPolarity,positive,dead,0.5436067830090221
+EmotionalPolarity,positive,sick,0.5432171710010176
+EmotionalPolarity,negative,good,-1.2853495091757337
+EmotionalPolarity,negative,great,-1.259938981688702
+EmotionalPolarity,negative,hopefully,-1.03908706983057
+EmotionalPolarity,negative,happy,-0.898593049510841
+EmotionalPolarity,negative,nice,-0.8500459086524815
+EmotionalPolarity,negative,lucky,-0.7628070734926728
+EmotionalPolarity,negative,hope,-0.7552496390695752
+EmotionalPolarity,negative,glad,-0.7457183930020042
+EmotionalPolarity,negative,interesting,-0.7132483803561258
+EmotionalPolarity,negative,better,-0.6996321965088478
+EmotionalPolarity,negative,love,-0.6707500882558483
+EmotionalPolarity,negative,thanks,-0.6395171108550389
+EmotionalPolarity,negative,you,-0.6281114354637148
+EmotionalPolarity,negative,amazing,-0.6198196147359664
+EmotionalPolarity,negative,grateful,-0.6160775033983557
+Empathy,positive,sad,2.309073485148487
+Empathy,positive,terrible,1.7258401041800853
+Empathy,positive,imagine,1.586456084826332
+Empathy,positive,poor,1.3595499592307745
+Empathy,positive,awful,1.3524518690132574
+Empathy,positive,lost,1.1546192180661448
+Empathy,positive,horrible,1.147930744155965
+Empathy,positive,feel,1.0862708946012
+Empathy,positive,tragedy,1.0837671783086116
+Empathy,positive,hope,1.0416302737325265
+Empathy,positive,suffering,0.988495568629703
+Empathy,positive,children,0.9476468913567899
+Empathy,positive,heartbreaking,0.9463943922861445
+Empathy,positive,must,0.9411052747672021
+Empathy,positive,heart,0.9401765212451619
+Empathy,negative,bye,-1.0111478518392762
+Empathy,negative,do you,-0.9744277848724222
+Empathy,negative,you,-0.9653747737632795
+Empathy,negative,you feel,-0.911131132797554
+Empathy,negative,goodbye,-0.907955853532275
+Empathy,negative,china,-0.6928549243074875
+Empathy,negative,news,-0.658708711110812
+Empathy,negative,chat,-0.6539959843630149
+Empathy,negative,you think,-0.6536445324695015
+Empathy,negative,did you,-0.6532006561022959
+Empathy,negative,are you,-0.6329658894974518
+Empathy,negative,thanks,-0.631204146245104
+Empathy,negative,remember,-0.6242241467977314
+Empathy,negative,lol,-0.6150482581604839
+Empathy,negative,clinton,-0.5849769316801141
+SelfDisclosure,positive,my,1.8192755496195046
+SelfDisclosure,positive,me,0.9623571464829993
+SelfDisclosure,positive,to,0.8979757717088377
+SelfDisclosure,positive,and,0.8815391205539699
+SelfDisclosure,positive,never,0.8013019382193203
+SelfDisclosure,positive,but,0.796440842107365
+SelfDisclosure,positive,am,0.6746002911993944
+SelfDisclosure,positive,myself,0.6537729619833365
+SelfDisclosure,positive,love,0.6310298773458186
+SelfDisclosure,positive,dog,0.6201782844956022
+SelfDisclosure,positive,lost,0.6157500823840124
+SelfDisclosure,positive,school,0.613113811845697
+SelfDisclosure,positive,ve,0.6067525261878987
+SelfDisclosure,positive,have,0.6018149673788373
+SelfDisclosure,positive,sad,0.5978585922511676
+SelfDisclosure,negative,do you,-1.1079603415167998
+SelfDisclosure,negative,you feel,-0.645774650799668
+SelfDisclosure,negative,you think,-0.5613016231028605
+SelfDisclosure,negative,you,-0.5483723178817567
+SelfDisclosure,negative,goodbye,-0.5302360629681825
+SelfDisclosure,negative,bye,-0.520814045702766
+SelfDisclosure,negative,hopefully,-0.4817206513447832
+SelfDisclosure,negative,the article,-0.43246332000830323
+SelfDisclosure,negative,not sure,-0.4248976757532976
+SelfDisclosure,negative,them in,-0.42404186289556606
+SelfDisclosure,negative,leprosy,-0.36584315112035887
+SelfDisclosure,negative,no it,-0.3632166320626162
+SelfDisclosure,negative,you ever,-0.3608520713083919
+SelfDisclosure,negative,think so,-0.3570878276468645
+SelfDisclosure,negative,people were,-0.3481095396120916
