@@ -10,7 +10,7 @@ Configuration:
 - Base model: roberta-base
 - Learning rate: 2e-5
 - Batch size: 16
-- Epochs: 3
+- Epochs: 2
 - Best checkpoint: selected by highest dev Pearson correlation
 
-Final test metrics: MAE=0.561, RMSE=0.710, Pearson=0.705
+Final test metrics: MAE=0.872554, RMSE=1.092759, Pearson=0.560670
