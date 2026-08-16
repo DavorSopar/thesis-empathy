@@ -1,0 +1,5 @@
+model,split,mae,rmse,pearson
+Ridge + TF-IDF,Dev,0.7663,0.9259,0.5457
+Ridge + TF-IDF,Test,0.9728,1.174,0.4926
+RoBERTa-base,Dev,0.695,0.8609,0.6232
+RoBERTa-base,Test,0.8756,1.091,0.5604
